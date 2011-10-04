@@ -12,6 +12,14 @@ Ubuntu Linux
 	sudo apt-get update
 	sudo apt-get install rabbitmq-server
 
+若 Ubuntu 的版本較舊（例如：10.04），
+可以使用 RabbitMQ 提供的 apt repository 安裝。 ::
+
+	sudosh -c "echo 'deb http://www.rabbitmq.com/debian/ testing main' > /etc/apt/sources.list.d/rabbitmq.list"
+	wget -q http://www.rabbitmq.com/rabbitmq-signing-key-public.asc -O- | sudo apt-key add -
+	sudo apt-get update
+	sudo apt-get install rabbitmq-server
+
 通常在安裝後，系統就會自動啟動 RabbitMQ 服務，但您也可以手動以指令啟動： ::
 
 	sudo service rabbitmq-server start
