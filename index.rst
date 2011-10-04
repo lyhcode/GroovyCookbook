@@ -1,37 +1,31 @@
 .. BookTemplate
-   @project: BookTemplate
+   @project: GroovyCookbook
    @copyright: Creative Commons
    @author: lyhcode <lyhcode@gmail.com>
-   @location: https://github.com/contpub/BookTemplate
-   @category: sample
-   @keywords: demo, essay
+   @location: https://github.com/lyhcode/GroovyCookbook
+   @category: Computers & Internet
+   @keywords: java, groovy, programming
    @version: 1.0
    @release: 1.0
-   @epub_basename: BookTemplate
+   @epub_basename: GroovyCookbook
    @latex_paper_size: a4
    @latex_font_size: 12pt
-   @latex_documents_target_name: BookTemplate.tex
-   @latex_documents_title: BookTemplate
+   @latex_documents_target_name: GroovyCookbook.tex
+   @latex_documents_title: Groovy Cookbook
    @latex_documents_author: by lyhcode
    @latex_logo: cover.eps
 
-*******************
-BookTemplate Title
-*******************
+****************
+Groovy Cookbook
+****************
 
 .. toctree::
    :maxdepth: 3
 
+   rabbitmq
    README
 
-誌謝
-====
+Groovy Taiwan
+==============
 
-開放源碼的力量正在改變世界，
-科技讓個人出版不再是一件困難的事，
-我們相信藉由開放電子書的自由分享，
-能夠讓知識和資訊的傳遞更加快速。
-
-感謝每一位樂於分享的人！
-
--- ConPub
+http://www.facebook.com/groovy.taiwan/
