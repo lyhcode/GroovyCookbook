@@ -11,7 +11,7 @@
    @latex_paper_size: a4
    @latex_font_size: 12pt
    @latex_documents_target_name: GroovyCookbook.tex
-   @latex_documents_title: Groovy Cookbook
+   @latex_documents_title: Groovy Cookbook\\Java 程式設計師樂活指南
    @latex_documents_author: by lyhcode
    @latex_logo: cover.eps
 
