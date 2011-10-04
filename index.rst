@@ -22,6 +22,7 @@ Groovy Cookbook
 .. toctree::
    :maxdepth: 3
 
+   intro
    rabbitmq
    README
 
