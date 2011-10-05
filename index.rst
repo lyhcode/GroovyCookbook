@@ -24,6 +24,9 @@ Groovy Cookbook
 
    intro
    rabbitmq
+   grails13
+   grails20
+   grails_plugins
    README
 
 Groovy Taiwan
