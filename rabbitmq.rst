@@ -57,5 +57,7 @@ RabbitMQ 提供一組 Java AMQP client [#JavaAMQPClient]_ 函式庫，
 
 .. literalinclude:: src/rabbitmq/hello.groovy
    :language: groovy
+   :linenos:
+   :emphasize-lines: 5
 
 
